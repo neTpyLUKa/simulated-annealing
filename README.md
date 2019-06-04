@@ -1,4 +1,6 @@
 # simulated-annealing
+Usage: Compile main.cpp file with g++ or clang++, then run it
+
 Input format: 
 
 n - number of points
